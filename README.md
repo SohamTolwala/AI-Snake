@@ -1,5 +1,8 @@
 # Teach AI To Play Snake! Reinforcement Learning With PyTorch and Pygame
 
+In this game the AI i.e agent will teach itself how to play a normie snake 
+game. The main modules that have been used are PyTorch and Pygame. We 
+have implemented Q-Learning which is Reinforcement Learning technique.
 
 Reinforcement learning - Reinforcement learning (RL) is an area of machine learning concerned with how software agents ought to
                          take actions in an environment in order to maximize the notion of cumulative reward.
