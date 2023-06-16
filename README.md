@@ -1,6 +1,5 @@
 # Teach AI To Play Snake! Reinforcement Learning With PyTorch and Pygame
 
-In this Python Reinforcement Learning Tutorial series we teach an AI to play Snake! We build everything from scratch using Pygame and PyTorch. The tutorial consists of 4 parts:
 
 Reinforcement learning - Reinforcement learning (RL) is an area of machine learning concerned with how software agents ought to
                          take actions in an environment in order to maximize the notion of cumulative reward.
